@@ -19,5 +19,9 @@
     font-weight: bold;
     color: rgb(93, 91, 91);
     text-decoration: underline;
+    position: absolute;
+    top: 30px;
+    right: 16px;
+    padding-right: 20px;
 
 }
