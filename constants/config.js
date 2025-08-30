@@ -1,9 +1,9 @@
 const config = {
   HEADER: {
     contact: "/contact",
-    linkedin: "https://www.linkedin.com/in/driselamri/",
-    github: "https://github.com/dris-e",
-    twitter: "https://x.com/driselamri",
+    linkedin: "https://www.linkedin.com/in/kasperhallenius/",
+    github: "https://github.com/kasper0990",
+    twitter: "https://x.com/kasper0990",
   },
 } 
 
